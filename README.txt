@@ -3,3 +3,4 @@ Alterando novamente o sistema
 
 Inserindo atualizações no Git novamente
 
+Adicinando novas funcionalidades aqui
